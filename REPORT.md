@@ -9,7 +9,7 @@ Level: High School / Introductory College Web Development
 
 ### Repository and Code Access
 Project Directory / Repository: c:/Users/Andrew/Downloads/hotel-discovery
-GitHub repository link: https://github.com/student-demo/hotel-discovery
+GitHub repository link: https://github.com/DarthInnocent/hotel-discovery
 Assessed Git Commit: ead653ba2f9cb6baf906f47a2c208b664a058e2c
 Commit Message: feat: complete Hotel Discovery app with FastAPI, Vue, Leaflet, and SQLite shortlist
 
